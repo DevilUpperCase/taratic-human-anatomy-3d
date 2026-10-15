@@ -38,3 +38,5 @@ next-env.d.ts
 /work/
 *.tsbuildinfo
 scratch/
+*.mp4
+GITHUB_VIDEO_URL.txt
