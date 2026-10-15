@@ -1,4 +1,4 @@
-# 📖 Atlas Humano 3D: Manual de la Aplicación y Arquitectura del Sistema
+# ANATOMIA HUMANA EN 3D
 
 > **Codex Anatómico 2026** : Explorador Tridimensional del Cuerpo Humano Basado en BodyParts3D 4.0 con 2.234 Meshes Individuales, 15 Sistemas Anatómicos, Motor de Conectividad y Proximidad Forense en mm, Interfaz Modular Acoplable con Mini-Docks y Soberanía Local sin Dependencias Externas.
 
@@ -17,11 +17,12 @@
 
 ## 🎬 Demostración Oficial de la Aplicación (Product Tour en Vídeo)
 
-https://github.com/user-attachments/assets/646bd199-150a-4f20-8854-fbb162766be5
+https://github.com/user-attachments/assets/2a493543-67e7-4775-915a-e86f6b04c05a
 
-*Recorrido fidedigno del sistema en 1080p Full HD: Nuevos preajustes de capas (Esqueleto, Musculatura, Órganos, Circulatorio, Nervioso), controles de visibilidad "Ver y No Ver" (Ocultar/Mostrar todo y switches independientes), despiece espacial tridimensional (Explode view), buscador predictivo con miniaturas 3D en tiempo real, motor de análisis de proximidad y conectividad anatómica con aislamiento relacional y alternancia de temas Claro / Oscuro.*
+*Recorrido fidedigno del sistema en 1080p Full HD en Modo Oscuro nativo con puntero focal de alta visibilidad y pulsos de interacción: Nuevos preajustes de capas (Esqueleto, Musculatura, Órganos, Circulatorio, Nervioso, Todos), controles de visibilidad "Ver y No Ver" (Ocultar/Mostrar todo y switches independientes), despiece espacial tridimensional (Explode view), buscador predictivo con miniaturas 3D en tiempo real, motor de análisis de proximidad y conectividad anatómica con aislamiento relacional.*
 
-🔊 **[Descargar Vídeo Maestro de Demostración (1080p MP4 · 7.39 MB)](https://github.com/user-attachments/assets/646bd199-150a-4f20-8854-fbb162766be5)**
+🔊 **[Descargar Vídeo Maestro de Demostración (1080p MP4 · 8.24 MB)](https://github.com/user-attachments/assets/2a493543-67e7-4775-915a-e86f6b04c05a)**
+
 
 ---
 

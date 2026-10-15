@@ -122,7 +122,7 @@ export default function Home() {
       const saved = sessionStorage.getItem('human_atlas_theme');
       if (saved === 'dark' || saved === 'light') return saved;
     }
-    return 'light';
+    return 'dark';
   });
 
   const [searchFocused, setSearchFocused] = useState(false);

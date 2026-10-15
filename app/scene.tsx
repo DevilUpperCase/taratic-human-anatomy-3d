@@ -12,7 +12,7 @@ import {translatePartName} from './anatomy-translation';
 import {registerPartGeometry} from './thumbnail-service';
 
 interface Props {atlas:Atlas;state:SceneState;lang?:Lang;theme?:'light'|'dark';onSelect:(id:string)=>void;onProgress:(n:number)=>void;onError:(s:string)=>void}
-export default function AnatomyScene({atlas,state,lang='es',theme='light',onSelect,onProgress,onError}:Props){
+export default function AnatomyScene({atlas,state,lang='es',theme='dark',onSelect,onProgress,onError}:Props){
  const host=useRef<HTMLDivElement>(null),latest=useRef(state),select=useRef(onSelect),currentLang=useRef(lang),currentTheme=useRef(theme);
  latest.current=state;select.current=onSelect;currentLang.current=lang;currentTheme.current=theme;
  useEffect(()=>{
