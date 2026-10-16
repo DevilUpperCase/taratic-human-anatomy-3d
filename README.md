@@ -17,12 +17,59 @@
 
 ## 🎬 Demostración Oficial de la Aplicación (Product Tour en Vídeo)
 
-https://github.com/user-attachments/assets/2a493543-67e7-4775-915a-e86f6b04c05a
+https://github.com/user-attachments/assets/cfef7b8b-4e34-4362-9cd6-5fa73269f4b8
 
 *Recorrido fidedigno del sistema en 1080p Full HD en Modo Oscuro nativo con puntero focal de alta visibilidad y pulsos de interacción: Nuevos preajustes de capas (Esqueleto, Musculatura, Órganos, Circulatorio, Nervioso, Todos), controles de visibilidad "Ver y No Ver" (Ocultar/Mostrar todo y switches independientes), despiece espacial tridimensional (Explode view), buscador predictivo con miniaturas 3D en tiempo real, motor de análisis de proximidad y conectividad anatómica con aislamiento relacional.*
 
-🔊 **[Descargar Vídeo Maestro de Demostración (1080p MP4 · 8.24 MB)](https://github.com/user-attachments/assets/2a493543-67e7-4775-915a-e86f6b04c05a)**
+🔊 **[Descargar Vídeo Maestro de Demostración (1080p MP4 · 6.58 MB · Recorrido Optimizado)](https://github.com/user-attachments/assets/cfef7b8b-4e34-4362-9cd6-5fa73269f4b8)**
 
+---
+
+## 📸 Galería Visual de la Interfaz (Capturas en Alta Resolución)
+
+> Para una inspección inmediata de la experiencia gráfica sin necesidad de reproducir el vídeo, a continuación se detallan los módulos y vistas cardinales del sistema en resolución 1080p Full HD:
+
+### 1. Vista General del Explorador 3D (Modo Oscuro Predeterminado)
+[![Vista General en Modo Oscuro](https://github.com/user-attachments/assets/44fdfa1a-9bd2-44f5-90e4-a40c564f6fd5)](https://github.com/user-attachments/assets/44fdfa1a-9bd2-44f5-90e4-a40c564f6fd5)
+*Lienzo WebGL con los 15 sistemas anatómicos activos (2.234 piezas), panel de capas modular a la izquierda con barra de preajustes rápidos, HUD orbital a la derecha y dock inferior de búsqueda inteligente.*
+
+---
+
+### 2. Modo Claro Clínico de Laboratorio
+[![Modo Claro Clínico](https://github.com/user-attachments/assets/3bc00e22-8c70-461f-87fe-8532a48e9cfb)](https://github.com/user-attachments/assets/3bc00e22-8c70-461f-87fe-8532a48e9cfb)
+*Estética médica diurna con fondo blanco perlado, sombras gaussianas de dispersión suave y alto contraste tipográfico optimizado para investigación docente y entornos clínicos.*
+
+---
+
+### 3. Preajustes de Capas Anatómicas: Esqueleto y Musculatura
+| 🦴 Preajuste Esquelético (296 piezas óseas) | 🏋️ Preajuste Muscular (402 grupos musculares) |
+|:---:|:---:|
+| [![Sistema Esquelético](https://github.com/user-attachments/assets/85ab5106-632a-48da-8003-effd5cdb3c55)](https://github.com/user-attachments/assets/85ab5106-632a-48da-8003-effd5cdb3c55) | [![Sistema Muscular](https://github.com/user-attachments/assets/fb8a6f61-c2c9-4c27-ae94-0aa7dbb81677)](https://github.com/user-attachments/assets/fb8a6f61-c2c9-4c27-ae94-0aa7dbb81677) |
+| *Aislamiento óseo puro y cartílagos articulares.* | *Musculatura esquelética superficial y profunda.* |
+
+---
+
+### 4. Órganos Internos y Red Vascular Circulatoria
+[![Órganos y Sistema Circulatorio](https://github.com/user-attachments/assets/824a6ab0-bfce-4c16-b7b8-c270f5f1325b)](https://github.com/user-attachments/assets/824a6ab0-bfce-4c16-b7b8-c270f5f1325b)
+*Visualización combinada de vísceras (corazón, hígado, pulmones, aparato digestivo) y 1.066 piezas vasculares (árbol arterial y retorno venoso).*
+
+---
+
+### 5. Despiece Espacial Tridimensional (Exploded View al 100%)
+[![Despiece Espacial Tridimensional](https://github.com/user-attachments/assets/2128d4a4-c043-4834-8f74-82e669807b29)](https://github.com/user-attachments/assets/2128d4a4-c043-4834-8f74-82e669807b29)
+*Despliegue volumétrico radial de las 2.234 piezas anatómicas con ordenamiento espacial concéntrico e inventario visual completo mediante cálculo de vectores baricéntricos.*
+
+---
+
+### 6. Buscador Predictivo con Miniaturas 3D Reactivas en Tiempo Real
+[![Buscador Predictivo con Miniaturas 3D](https://github.com/user-attachments/assets/ee17a118-9b4f-4d74-81ac-10f278898bec)](https://github.com/user-attachments/assets/ee17a118-9b4f-4d74-81ac-10f278898bec)
+*Consola de búsqueda inferior (atajo global `/`) resolviendo sinónimos clínicos y generando miniaturas 3D WebGL renderizadas asíncronamente al vuelo.*
+
+---
+
+### 7. Inspector Biomecánico y Motor de Conectividad Anatómica
+[![Inspector Biomecánico y Conectividad](https://github.com/user-attachments/assets/97a93b7c-2cf6-4979-8ee9-d21822ee33ff)](https://github.com/user-attachments/assets/97a93b7c-2cf6-4979-8ee9-d21822ee33ff)
+*Selección estructural (Corazón / FMA7088) con ficha morfométrica, cálculo de distancia euclídea milimétrica (0 mm contacto directo) y aislamiento relacional con realce cromático dual (cian para pieza foco y ámbar para vecinos conectados).*
 
 ---
 
@@ -43,6 +90,8 @@ La plataforma se asienta sobre cuatro pilares arquitectónicos innegociables:
 
 # 📚 Índice General de la Obra
 
+- [🎬 Demostración Oficial de la Aplicación (Product Tour en Vídeo)](#-demostración-oficial-de-la-aplicación-product-tour-en-vídeo)
+- [📸 Galería Visual de la Interfaz (Capturas en Alta Resolución)](#-galería-visual-de-la-interfaz-capturas-en-alta-resolución)
 - [🏛️ Prólogo: Principios Fundacionales del Sistema](#️-prólogo-principios-fundacionales-del-sistema)
 - [PARTE I: ESPACIO DE TRABAJO 3D E INTERFAZ MODULAR ACOPLABLE](#parte-i-espacio-de-trabajo-3d-e-interfaz-modular-acoplable)
   - [Capítulo 1: Arquitectura del Gestor de Paneles (DockManager)](#capítulo-1-arquitectura-del-gestor-de-paneles-dockmanager)
@@ -116,6 +165,8 @@ Al arrastrar un panel por su cabecera:
 
 ### Capítulo 3: Alternancia de Tema Claro / Oscuro y Localización Bilingüe (ES / EN)
 
+[![Modo Claro Clínico vs Modo Oscuro](https://github.com/user-attachments/assets/3bc00e22-8c70-461f-87fe-8532a48e9cfb)](https://github.com/user-attachments/assets/3bc00e22-8c70-461f-87fe-8532a48e9cfb)
+
 - **Selector de Tema (Dark / Light Mode)**:
   - Modo Claro: Diseñado para entornos clínicos y de estudio, con fondo blanco perlado, sombras gaussianas suaves y contraste nítido en tipografía oscura.
   - Modo Oscuro: Paleta de tonos pizarra profunda (`#090d16` a `#151c2e`), fondos de vidrio escarchado (*frosted glass*) con desenfoque de 20 píxeles y realce luminiscente en los elementos seleccionados.
@@ -151,6 +202,10 @@ El cuerpo humano se estructura en 15 subsistemas funcionales independientes, cad
 | 🌐 | **Tejido Conectivo** | `connective` | `#7a8f99` | 40 piezas |
 
 ### Capítulo 5: Nuevos Preajustes de Acceso Rápido (Esqueleto, Músculos, Órganos, Circulatorio, Nervioso)
+
+| 🦴 Esqueleto | 🏋️ Músculos | 🫀 Órganos & Circulatorio |
+|:---:|:---:|:---:|
+| [![Esqueleto](https://github.com/user-attachments/assets/85ab5106-632a-48da-8003-effd5cdb3c55)](https://github.com/user-attachments/assets/85ab5106-632a-48da-8003-effd5cdb3c55) | [![Músculos](https://github.com/user-attachments/assets/fb8a6f61-c2c9-4c27-ae94-0aa7dbb81677)](https://github.com/user-attachments/assets/fb8a6f61-c2c9-4c27-ae94-0aa7dbb81677) | [![Órganos y Circulatorio](https://github.com/user-attachments/assets/824a6ab0-bfce-4c16-b7b8-c270f5f1325b)](https://github.com/user-attachments/assets/824a6ab0-bfce-4c16-b7b8-c270f5f1325b) |
 
 En la parte superior del panel de capas se ubica la barra de **Preajustes de Acceso Rápido**, provista de iconos específicos y activación con un solo toque:
 
@@ -195,6 +250,8 @@ El control de cámara sobre la escena 3D se opera a través del HUD flotante ubi
 
 ### Capítulo 9: Motor de Despiece Progresivo (Explode Slider y Empaquetamiento Tridimensional)
 
+[![Despiece Espacial Tridimensional](https://github.com/user-attachments/assets/2128d4a4-c043-4834-8f74-82e669807b29)](https://github.com/user-attachments/assets/2128d4a4-c043-4834-8f74-82e669807b29)
+
 El deslizador vertical de **Desplazamiento / Explode** (`0%` a `100%`) activa un algoritmo cinemático que proyecta cada pieza anatómica visible hacia el exterior:
 
 ```mermaid
@@ -236,6 +293,8 @@ El módulo `app/synonyms.ts` incorpora una matriz de búsqueda fonética y semá
 | *aorta* | Aorta torácica / Aorta abdominal | Arterial | `FMA3734` |
 
 ### Capítulo 13: Miniaturas 3D Reactivas Generadas al Vuelo (PieceThumbnail)
+
+[![Buscador Predictivo con Miniaturas 3D en Tiempo Real](https://github.com/user-attachments/assets/ee17a118-9b4f-4d74-81ac-10f278898bec)](https://github.com/user-attachments/assets/ee17a118-9b4f-4d74-81ac-10f278898bec)
 
 Cada elemento de la lista de resultados no se conforma con mostrar texto plano:
 
@@ -287,6 +346,8 @@ $$\text{Distancia}(A, B) = \min_{p_a \in A, p_b \in B} \| p_a - p_b \|$$
 - **Filtro por Categoría Biomecánica**: Permite filtrar las conexiones por tipo (Huesos, Músculos, Órganos, Vasos, Nervios).
 
 ### Capítulo 16: Aislamiento Relacional 3D (Resaltado Dual Cyan + Ámbar y Clicks de Visibilidad 3D)
+
+[![Aislamiento Relacional y Resaltado Dual Cyan y Ámbar](https://github.com/user-attachments/assets/97a93b7c-2cf6-4979-8ee9-d21822ee33ff)](https://github.com/user-attachments/assets/97a93b7c-2cf6-4979-8ee9-d21822ee33ff)
 
 La gran innovación del visor radica en el botón interactivo **3D** asociado a cada elemento de la lista de conexiones:
 

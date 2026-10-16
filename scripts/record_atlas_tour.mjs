@@ -391,23 +391,6 @@ async function main() {
   await orbit3D(960, 500, 100, 0, 20);
   await sleep(1500);
 
-  // Click Aislar estructura
-  const btnIsolate = await page.$('.primary-action');
-  if (btnIsolate) {
-    const box = await btnIsolate.boundingBox();
-    if (box) {
-      await animatedClick(Math.round(box.x + box.width / 2), Math.round(box.y + box.height / 2), 2500);
-      console.log('  -> Clicked Aislar estructura');
-      await animatedClick(Math.round(box.x + box.width / 2), Math.round(box.y + box.height / 2), 1800);
-      console.log('  -> Restored surrounding environment');
-    }
-  }
-
-  // 7. Scene 7: Final Panoramic Orbit in Dark Mode
-  console.log('Scene 7: Final cinematic orbit in dark mode...');
-  await orbit3D(960, 500, 160, 0, 25);
-  await sleep(2000);
-
   console.log(`Stopping screencast... Total recorded frames: ${frameCount}`);
   await client.send('Page.stopScreencast');
   await browser.close();
